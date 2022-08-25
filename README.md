@@ -4,6 +4,7 @@ I know mostly Java, but I also have experience with Rust, Kotlin, Python.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ykong1337&layout=compact)
 
+![](https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **Ykong1337/Ykong1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
