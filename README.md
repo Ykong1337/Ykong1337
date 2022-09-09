@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🚀 I know mostly 
-![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-- 🚀 I also have experience with
+- 🚀 I know mostly ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) But I also have experience with
 ![](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
