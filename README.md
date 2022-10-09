@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Currently learning Rust and Kotlin
-- A fresh graduate
+- Just graduated from university
 - ACG lovers
 
 ### Languages and Tools
