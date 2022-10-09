@@ -2,11 +2,11 @@
 
 - 🚀 I know mostly ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) But I also have experience with
 ![](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ⚙️ Tools used
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/NeoVim-57A143?&style=flat&logo=neovim&logoColor=white)
 - 💻 Platforms used
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
