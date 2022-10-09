@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
+## Languages and Tools
 <div align="center">  
   
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/java.svg" alt="Java" height="50" />
