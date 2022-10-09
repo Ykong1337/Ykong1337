@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 - 💻 Platforms used
-![](https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
