@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+---
 - Currently learning Rust and Kotlin
 - Just graduated from university
 - ACG lovers
