@@ -5,6 +5,7 @@
 - ACG lovers
 
 ### Languages, Tools and Platforms
+---
 <div align="center">  
   
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/java.svg" alt="Java" height="50" />
