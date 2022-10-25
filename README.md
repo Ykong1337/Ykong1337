@@ -1,7 +1,7 @@
-### Hi there 👋
+### Ykong 👋
 ---
 - Currently learning Rust and Kotlin
-- Just graduated from university
+- Working on backend development
 - ACG lovers
 
 ### Languages, Tools and Platforms
@@ -23,6 +23,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ykong1337&layout=compact&theme=tokyonight) -->
 
 <!-- ![](https://raw.githubusercontent.com/Ykong1337/Ykong1337/output/github-contribution-grid-snake.svg) -->
-
+---
 ![](http://profile-counter.glitch.me/Ykong1337/count.svg)
 
