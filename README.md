@@ -21,7 +21,7 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ykong1337&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ykong1337&layout=compact&theme=tokyonight) -->
 
 <!-- ![](https://raw.githubusercontent.com/Ykong1337/Ykong1337/output/github-contribution-grid-snake.svg) -->
 ### Views
