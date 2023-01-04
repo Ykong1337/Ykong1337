@@ -14,7 +14,7 @@
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/python.svg" alt="Python" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/IntelliJ_IDEA.svg" alt="Idea" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/Fleet.svg" alt="Idea" height="50" />
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/neovim.svg" alt="Neovim" height="50" />
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/vim.svg" alt="Vim" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/archlinux.svg" alt="Archlinux" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/debian.svg" alt="Debian" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/windows.svg" alt="Windows" height="50" />
